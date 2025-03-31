@@ -7,3 +7,7 @@ This repository contains an implementation of a hospital database system using *
 
 - **`code.sql`**: SQL script for the database schema, including tables, constraints, and relationships, as well as **functions, procedures, and triggers** for efficient management of the hospital database.
 - **`doc.docx`**: Documentation (Romanian).
+
+## How to Use
+- Use an Oracle-compatible SQL editor and execute the provided functions and procedures to perform hospital management tasks.
+- Refer to **`doc.docx`** for a detailed explanation of what each function does.
